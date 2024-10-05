@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>HTML Line Breaks Example</title>
+    <h3> this is a template using Line Breaks</h3>
+</head>
+
+<body>
+    <h2>HTML Line Breaks</h2>
+    <br>Hickory Dickory dock,</br>
+    <br>The mouse ran up the clock,</br>
+    <br>The clock struck one</br>
+    <br>The mouse ran down,</br>
+    </body>
+</html>
+
+<h3> By shaudon Hyllam-Gordon</h3>
+
