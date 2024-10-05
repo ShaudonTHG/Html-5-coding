@@ -9,9 +9,8 @@
 
 <body>
     <h2>HTML Image</h2>
-    <img src="Image/SingleImage/ukflag.jpeg" alt="UK flag" width="900" height="600">
+    <img src="https://www.flagseller.co.uk/cdn/shop/files/UNION-FLAG-MAIN-scaled.jpg?v=1714239334&width=1946" alt="UK flag" width="900" height="600">
 </body>
 </html>
 
 <h3> By shaudon Hyllam-Gordon</h3>
-
