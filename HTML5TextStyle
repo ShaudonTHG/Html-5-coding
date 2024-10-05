@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>HTML5 Style only Example</title>
+    <h3> this is a template for me adding HTML5 Style only </h3>
+</head>
+
+<body>
+    
+<body style="background-color:gray;">
+
+<h1><p style="color:red;"> red plane</p></h1>
+<h1><p style="color:blue;"> blue ball</p></h1>
+<h1><p style="color:green;"> green toy</p></h1>
+<h1><p style="color:pink;"> ice cream</p></h1>
+
+
+        
+</body>
+</html>
+
+<h3> By Shaudon Hyllam-Gordon</h3>
