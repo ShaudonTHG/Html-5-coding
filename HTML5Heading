@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>HTML5 Headings Example</title>
+    <h3> this is a template for me adding Headings</h3>
+</head>
+
+<body>
+
+<h1>Shaudon 1</h1>
+<h2>Shaudon 2</h2>
+<h3>Shaudon 3</h3>
+<h4>Shaudon 4</h4>
+<h5>Shaudon 5</h5>
+<h6>Shaudon 6</h6>
+
+        
+</body>
+</html>
+
+<h3> By Shaudon Hyllam-Gordon</h3>
