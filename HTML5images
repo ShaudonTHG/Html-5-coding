@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>HTML Image Example</title>
+    <h3> this is a template for me linking my images</h3>
+</head>
+
+<body>
+    <h2>HTML Image</h2>
+    <img src="Image/SingleImage/ukflag.jpeg" alt="UK flag" width="900" height="600">
+</body>
+</html>
+
+<h3> By shaudon Hyllam-Gordon</h3>
+
