@@ -1,0 +1,38 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML List Example</title>
+</head>
+<body>
+    <h3>This is a template for adding a List</h3>
+
+<h2> Shopping List</h2>
+
+    <ul>
+      <li>Coffee</li>
+      <li>Tea</li>
+      <li>Milk</li>
+      <li>Ham</li>
+      <li>Milk</li>
+      <li>Egg</li>
+
+    </ul>  
+    
+<h2> Ranking school race List</h2>
+    
+    <ol>
+      <li>Adam</li>
+      <li>Sam</li>
+      <li>Ben</li>
+      <li>Tom</li>
+      <li>Nick</li>
+      <li>Bob</li>
+    </ol> 
+
+<br>
+<br>
+
+<h3> By Shaudon Hyllam-Gordon</h3>
+
+
